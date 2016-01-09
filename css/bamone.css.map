@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAkB;AAElB,wEAAwE;AACxE,wBAAwB;AACxB,wEAAwE;AAExE,UAAW;EAAE,MAAM,EAAC,CAAC;EAAE,OAAO,EAAC,CAAC;EAAE,KAAK,EAAC,IAAI;EAAE,MAAM,EAAC,IAAI;;AAIzD,wEAAwE;AACxE,YAAY;AACZ,wEAAwE;AAExE;;;;;;;;;;;;;;;;;;;;;;;;;;;EA2BE",
+"sources": ["../sass/bamone.scss"],
+"names": [],
+"file": "bamone.css"
+}
